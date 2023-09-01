@@ -6,7 +6,7 @@ This repo contains the source code and documentation powering [react.dev](https:
 
 ### Prerequisites
 
-1. Git
+1. Git: any version
 1. Node: any 12.x version starting with v12.0.0 or greater
 1. Yarn: See [Yarn website for installation instructions](https://yarnpkg.com/lang/en/docs/install/)
 1. A fork of the repo (for any contributions)
